@@ -16,8 +16,6 @@ a ::before{
 
 }
 
-a:hover::before{
+a:hover ::before {
     width: 100%;
-    
-   
 }
