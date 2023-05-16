@@ -1,2 +1,1 @@
-# alx-frontend-for-fun
-Having fun with CSS
+hving fun with CSS
